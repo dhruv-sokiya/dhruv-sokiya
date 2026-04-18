@@ -83,7 +83,7 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="[www.linkedin.com/in/dhruv-sokiya-b4a163378](https://www.linkedin.com/in/dhruv-sokiya-b4a163378/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/dhruvsokiya/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dhruv.sokiya@somaiya.edu">
