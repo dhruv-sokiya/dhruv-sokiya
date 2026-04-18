@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Dhruv Sokiya 👋</h1>
 
 <p align="center">
-  <b>B.Tech Computer Engineering · KJSCE, Mumbai · TY → SY7 incoming 🚀</b>
+  <b>B.Tech Computer Engineering · KJSCE, Mumbai · TY 🚀</b>
 </p>
 
 <p align="center">
@@ -12,20 +12,15 @@
 
 ## 🧠 About Me
 
-```python
-class Dhruv(Developer):
-    def __init__(self):
         self.name         = "Dhruv Sokiya"
         self.degree       = "B.Tech – Computer Engineering"
         self.university   = "K. J. Somaiya School of Engineering, Mumbai"
         self.role         = "PR & Marketing Head @ ISTE – KJSCE"
         self.location     = "Mumbai, Maharashtra, India 🇮🇳"
         self.interests    = ["Systems", "AI/ML", "Dev", "Tech Comms"]
-        self.open_to      = ["Internships", "Research", "Collabs"]
+        Open to:  ["Internships", "Research", "Collabs"]
 
-    def __repr__(self):
-        return "Building. Learning. Iterating."
-```
+"Building. Learning. Iterating."
 
 ---
 
@@ -49,15 +44,6 @@ class Dhruv(Developer):
 - Designing communication pipelines for student engagement at scale
 - Coordinating with speakers, sponsors, and cross-functional teams
 - Building ISTE's digital presence across social platforms
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvsokyia&show_icons=true&theme=tokyonight&hide_border=true" alt="Dhruv's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsokyia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
