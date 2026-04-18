@@ -12,12 +12,11 @@
 
 ## 🧠 About Me
 
-        self.name         = "Dhruv Sokiya"
-        self.degree       = "B.Tech – Computer Engineering"
-        self.university   = "K. J. Somaiya School of Engineering, Mumbai"
-        self.role         = "PR & Marketing Head @ ISTE – KJSCE"
-        self.location     = "Mumbai, Maharashtra, India 🇮🇳"
-        self.interests    = ["Systems", "AI/ML", "Dev", "Tech Comms"]
+        Name: "Dhruv Sokiya"
+        Degree :"B.Tech – Computer Engineering"
+        University @ "K. J. Somaiya School of Engineering, Mumbai"
+        Location : "Mumbai, Maharashtra, India 🇮🇳"
+        Interests :  ["Systems", "AI/ML", "Dev", "Tech Comms"]
         Open to:  ["Internships", "Research", "Collabs"]
 
 "Building. Learning. Iterating."
